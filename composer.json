@@ -41,7 +41,7 @@
         "canaltp/nmm-portal-bundle": "0.1.*"
     },
     "autoload": {
-        "psr-0": { "CanalTP\\MediaManagerBundle\\": "" }
+        "psr-0": { "CanalTP\\NmmPortalBridgeBundle\\": "" }
     },
-    "target-dir": "CanalTP/MediaManagerBundle/"
+    "target-dir": "CanalTP/NmmPortalBridgeBundle/"
 }

@@ -1,0 +1,47 @@
+{
+    "name": "canaltp/nmm-portal-bridge-bundle",
+    "type": "symfony-bundle",
+    "description": "NmmPortalBridgeBundle",
+    "keywords": [],
+    "homepage": "https://github.com/CanalTP/NmmPortalBridgeBundle",
+    "license": "AGPLv3",
+    "authors": [
+        {
+            "name": "Rémy Abi-Khalil",
+            "email": "remy.abikhalil@canaltp.fr"
+        },
+        {
+            "name": "Kévin ZIEMIANSKI",
+            "email": "kevin.ziemianski@canaltp.fr"
+        },
+        {
+            "name": "David QUINTANEL",
+            "email": "david.quintanel@canaltp.fr"
+        },
+        {
+            "name": "David NEGRELLO",
+            "email": "david.negrello@canaltp.fr"
+        },
+        {
+            "name": "Thomas CHEVILY",
+            "email": "thomas.chevily@canaltp.fr"
+        },
+        {
+            "name": "Arnaud OGIELA",
+            "email": "arnaud.ogiela@canaltp.fr"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "packagist.canaltp.fr"
+        }
+    ],
+    "require": {
+        "canaltp/nmm-portal-bundle": "0.0.1"
+    },
+    "autoload": {
+        "psr-0": { "CanalTP\\MediaManagerBundle\\": "" }
+    },
+    "target-dir": "CanalTP/MediaManagerBundle/"
+}

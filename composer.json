@@ -38,7 +38,7 @@
         }
     ],
     "require": {
-        "canaltp/nmm-portal-bundle": "0.0.1"
+        "canaltp/nmm-portal-bundle": "~0.0.1"
     },
     "autoload": {
         "psr-0": { "CanalTP\\MediaManagerBundle\\": "" }

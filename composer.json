@@ -38,7 +38,7 @@
         }
     ],
     "require": {
-        "canaltp/nmm-portal-bundle": "0.1.*"
+        "canaltp/nmm-portal-bundle": "^1.0"
     },
     "autoload": {
         "psr-0": { "CanalTP\\NmmPortalBridgeBundle\\": "" }
